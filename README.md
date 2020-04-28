@@ -1,2 +1,6 @@
-# machine-learning-manual
-Introduction to machine learning with R
+# Machine Learning Manual
+
+This manuals provides a gentle introduction to machine learning with R.
+
+## Author
+Alfredo Sánchez Alberca (asalber@ceu.es)
